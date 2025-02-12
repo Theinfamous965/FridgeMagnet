@@ -1,7 +1,7 @@
 # 🧊 Fridge Magnet App
 
 ## 📌 Overview
-Fridge Inventory App is a SwiftUI-based application designed to help users track the items in their fridge efficiently. It follows an **Agile development approach**, implementing features in sprints to ensure continuous testing and iterative improvements.
+Fridge Magnet App is a SwiftUI-based application designed to help users track the items in their fridge efficiently. It follows an **Agile development approach**, implementing features in sprints to ensure continuous testing and iterative improvements.
 
 ## 🚀 Features Roadmap
 We are developing this app in multiple sprints to enhance functionality progressively. Below is our Agile development plan:
@@ -65,7 +65,7 @@ We are developing this app in multiple sprints to enhance functionality progress
 To run the project locally:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/fridge-inventory-app.git
+   git clone https://github.com/Theinfamous965/FridgeMagnet.git
    ```
 2. Open the project in **Xcode**.
 3. Build and run on a simulator or a physical device.
@@ -82,5 +82,5 @@ We welcome contributions! Feel free to submit issues or pull requests.
 This project is licensed under the **MIT License**.
 
 ## 📩 Contact
-For any inquiries, please reach out via [GitHub Issues](https://github.com/yourusername/fridge-inventory-app/issues).
+For any inquiries, please reach out via [GitHub Issues](https://github.com/yourusername/FridgeMagnet/issues).
 
